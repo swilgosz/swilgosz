@@ -4,7 +4,7 @@ My name is Seb and I'm a passionate Ruby developer and productivity madman.
 
 ### About me
 
-I am a Ruby developer, owner of [Hanami Mastery](https://hanamimastery.com] initiative, a coffee lover and blogger.
+I am a Ruby developer, owner of [Hanami Mastery](https://hanamimastery.com) initiative, a coffee lover and blogger.
 
 My mission is to **make Open-Source contributions attractive enough for developers to treat them as the main job**.
 
