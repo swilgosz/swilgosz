@@ -1,10 +1,10 @@
 👋 Hi There!
 
-My name is Seb and I'm a passionate Ruby developer and productivity madman. 
+My name is Seb and I'm a passionate Ruby developer and productivity madman.
 
 ### About me
 
-I am a Ruby developer, owner of [Hanami Mastery](https://hanamimastery.com) initiative, a coffee lover and blogger.
+I am a Ruby developer, owner of [Hanami Mastery](https://hanamimastery.com) initiative and a host of [content_for :devs](https://www.contentfor.dev) podcast, a coffee lover and blogger.
 
 My mission is to **make Open-Source contributions attractive enough for developers to treat them as the main job**.
 
@@ -15,12 +15,14 @@ I am working on tutorials, [courses](https://www.udemy.com/user/sebastian-wilgos
 - [BIO LINK](https://bio.link/swilgosz)
 - [LinkedIn Profile](https://linkedin.com/in/sebastianwilgosz)
 - [Hanami Mastery](https://hanamimastery.com)
+- [content_for :devs](https://www.contentfor.dev)
 
 **🎙️ My main projects:**
 
 - 📜 [Hanami Mastery](https://hanamimastery.com) - an open startup, where we share knowledge related to maintainable ruby applications
 - 🎥 [HM Youtube Channel](https://m.youtube.com/channel/UC4Z5nwSfZrUO4NI_n9SY3uQ)
 - ✉️ [HM Newsletter](https://mailchi.mp/6ac8f64f3c5d/hanami-mastery-newsletter)
+- 🎙️ [content_for :devs](https://www.contentfor.dev)
 
 ### Supporting my work
 
@@ -32,6 +34,7 @@ I am working on tutorials, [courses](https://www.udemy.com/user/sebastian-wilgos
 - [JSON:API Errors Handler](https://github.com/driggl/jsonapi_errors_handler) - a Ruby gem handling API errors in a convenient way Ruby applications and parsing them to a JSON:API standard.
 - [JSOM:Pagination](https://github.com/useo-pl/jsom-pagination) - a Ruby gem allowing to easily paginate JSON:API resources in all ruby applications.
 - [FastCQRS](https://github.com/driggl/fast_cqrs) - a little framework helping to implement the CQRS in ruby web applications, keeping controllers thin and skinny.
+- [JayDoubleuTee](https://github.com/hanamimastery/jay_doubleu_tee) - JWT authorization support for Rack-compatible ruby apps (Hanami too!).
 
 **😵‍💫 Other projects**
 
